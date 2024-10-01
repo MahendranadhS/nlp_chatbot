@@ -23,8 +23,8 @@ To get started with this project, follow the steps below:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
-    cd YourRepositoryName
+    git clone [https://github.com/YourGitHubUsername/YourRepositoryName.git](https://github.com/MahendranadhS/nlp_chatbot.git)
+    cd nlp_chatbot
     ```
 
 2. Install the required libraries:
